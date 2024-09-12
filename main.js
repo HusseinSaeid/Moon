@@ -1,7 +1,7 @@
 let Btn = document.querySelector(".fa-circle-up");
 let Bar = document.querySelector(".bar");
 let Icon = document.querySelector(".header-icon");
-let Ui = document.querySelector(".uii");
+let Ui = document.querySelector(".ui");
 let isUiVisible = false;
 
 window.onscroll = function () {
