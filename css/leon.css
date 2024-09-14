@@ -84,6 +84,7 @@ html {
   position: relative;
 }
 .header .links .icon {
+  cursor: pointer;
   width: 60px;
   display: flex;
   flex-wrap: wrap;
